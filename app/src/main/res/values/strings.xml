@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Солнечная система</string>
+    <string name="milkywaygalaxy">Млечный путь</string>
+    <string name="distance">54.6m km</string>
+    <string name="gravity">3.711 m/ss</string>
+    <string name="earth">Земля</string>
+    <string name="textsplashscreen">Запуск...</string>
+    <string name="solarsystem">Солнечная система</string>
+</resources>
